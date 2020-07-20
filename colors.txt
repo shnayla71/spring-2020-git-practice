@@ -4,9 +4,9 @@ black
 green
 blue
 yellow
-
 orange
 ###pink
 purple
 white
 gray
+apricot
