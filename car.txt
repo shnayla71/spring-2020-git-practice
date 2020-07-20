@@ -8,4 +8,12 @@ Mercedes
 Audi
 KIA
 Tesla
+<<<<<<< Updated upstream
 Jeep
+=======
+Hyundai
+Nissan
+Lexus
+Ferrari
+
+>>>>>>> Stashed changes
