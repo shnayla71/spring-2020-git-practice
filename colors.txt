@@ -8,3 +8,5 @@ yellow
 orange
 ###pink
 purple
+white
+gray
